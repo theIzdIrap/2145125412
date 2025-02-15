@@ -1,8 +1,8 @@
 # srat-v0.2
 
-web server rat
-no port needed
-simple usage
+web server rat,
+no port needed,
+simple usage,
 no vds needed
 
 
